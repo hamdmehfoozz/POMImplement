@@ -11,7 +11,7 @@ import com.excel.utility.Xls_Reader;
 public class SanityTests {
 	
 	WebDriver driver;
-	
+	//These are sanity tests!!!!!!!!!!!!!!!!!!!!!!
 	//all empty fields
 	 @Test
 	  public void TC3() throws Exception {
