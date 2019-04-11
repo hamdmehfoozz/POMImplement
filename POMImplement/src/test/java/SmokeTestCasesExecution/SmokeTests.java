@@ -19,7 +19,7 @@ public class SmokeTests {
 	WebDriver driver;
 	
 	
-	
+	//these are smoke tests!!!!!!!!!!!!!!!!!!!!!
 	
 	//registration successfull
 	@Test
